@@ -1,0 +1,6 @@
+{
+  "name": "Bandar Apology to Darshuu",
+  "description": "A sincere, beautifully designed, and interactive apology website created by Bandar for Darshuu to express regret, celebrate their memories, and seek forgiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
